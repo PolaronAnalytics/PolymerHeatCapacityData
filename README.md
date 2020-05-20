@@ -1,5 +1,5 @@
 # PolymerHeatCapacityData
-The Excel file Cp_Polymer_Data.xlx has 10 sheets as "Polymer_data_set", "Atom-Type", "Molecular-Type", "Molecular-Attributes", "Atom-Name", Bonding", "Molecular-Weight", "Bond", "Angle", and "Dihedral".
+The Excel file Cp_Polymer_Data.xlsx has 10 sheets as "Polymer_data_set", "Atom-Type", "Molecular-Type", "Molecular-Attributes", "Atom-Name", Bonding", "Molecular-Weight", "Bond", "Angle", and "Dihedral".
 
 The "Polymer_data_set" has all 188 descriptors. The descriptors are in first row whereas rows 2 to 69 represent different polymers.
 
