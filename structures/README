@@ -1,0 +1,4 @@
+The structures are in the LAMMPS data file. These can be visulaized using VMD TCL script using the following steps:
+Open VMD
+Go to Extensions and open Tk Console. It will open a window
+In the window, write "topo readlammpsdata data.zzz" (without quotes and use the proper structure name instead of data.zzz)
